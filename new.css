@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background: url(https://th.bing.com/th/id/R.fc3f8046d66e4b583070b42b21a0b039?rik=HjZ1j%2blgEkiNCA&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f06%2fHD-wallpapers-waterfall-backgrounds.jpg&ehk=QXKgEn3L1hdjMbdVet8OLGJnl5YC05Sx8BBLFpWdYts%3d&risl=&pid=ImgRaw&r=0);
+
+    background-size:100%;
+  
+   
+}
+div.main{
+    width: 400px;
+    margin: 100px auto 0px auto
+
+}
+h2{
+    text-align: center;
+    padding: 20px;
+    font-family: sans-serif;
+}
+div.register{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    font-size:18px;
+    border-radius: 10px;
+    border: 5px solid rgba(255,255,255,0.3);
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.3);
+    color:#fff;
+
+}
+form#register{
+    margin: 40px;
+}
+label{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: italic;
+}
+input#name{
+    width: 300px;
+    border:1px solid #ddd;
+    border-radius: 3px;
+    outline: 0;
+    padding:7px;
+    background-color: #fff;
+    box-shadow: inset 1px 1px 5px
+    rgba(0, 0, 0, 0.3);
+}
+input#submit{
+    width:200px;
+    padding: 7px;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 5000;
+    border:#ddd
+    border-radius:4px;
+    background-color:rgba(250,100,0,0.8);
+    color:#fff;
+    cursor:pointer;
+    box-shadow: 1px 1px 5px
+    rgba(0,0,0,0.3);
+}
+label,span,h2{
+    text-shadow: 1px 1px 5px
+    rgba(0, 0, 0, 0.3);
+}
